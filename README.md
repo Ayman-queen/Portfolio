@@ -19,9 +19,8 @@ Currently learning and building projects to grow professionally and create meani
 
 - HTML | CSS | JavaScript
 - TypeScript
-- Next.js (Basic)
-- Python (Beginner)
-- MATLAB
+- Next.js 
+- Python 
 - Git & GitHub
 
 ---
